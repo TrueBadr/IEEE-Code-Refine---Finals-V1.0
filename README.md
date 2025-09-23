@@ -9,5 +9,5 @@
 2. [Data Model ](https://github.com/TrueBadr/IEEE-Code-Refine---Finals-V1.0/blob/main/data_model.excalidraw)
 3. [API Design]()
 4. [High Level Architecture]()
-5. [Deep Dives]()
+5. [Deep Dives](https://github.com/TrueBadr/IEEE-Code-Refine---Finals-V1.0/blob/main/Deep%20Dives.md)
 6. [Backend Estimation]()
