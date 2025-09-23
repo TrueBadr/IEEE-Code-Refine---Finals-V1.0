@@ -8,6 +8,6 @@
 1. [Functional and Non-Functional Requirements](https://github.com/TrueBadr/IEEE-Code-Refine---Finals-V1.0/blob/main/requirments.excalidraw)
 2. [Data Model ](https://github.com/TrueBadr/IEEE-Code-Refine---Finals-V1.0/blob/main/data_model.excalidraw)
 3. [API Design](https://github.com/TrueBadr/IEEE-Code-Refine---Finals-V1.0/blob/main/API_design.excalidraw)
-4. [High Level Architecture]()
+4. [High Level Architecture](https://github.com/TrueBadr/IEEE-Code-Refine---Finals-V1.0/blob/main/High_level_design.excalidraw)
 5. [Deep Dives](https://github.com/TrueBadr/IEEE-Code-Refine---Finals-V1.0/blob/main/Deep%20Dives.md)
 6. [Backend Estimation](https://github.com/TrueBadr/IEEE-Code-Refine---Finals-V1.0/blob/main/Backend%20Estimation.md)
